@@ -1,3 +1,4 @@
+![logo](https://github.com/sudhanshshakhar/Sudhanshu/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sudhanshu Shekhar</h1>
 <h3 align="center">A Data Analyst</h3> 
 <img align="right" alt="analyst" width="400" src="https://i.gifer.com/origin/89/899d8d16422a57b6479bde70755c10a8_w200.gif">
