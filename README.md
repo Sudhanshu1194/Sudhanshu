@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, ETL development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudhanshshakhar/Sudhanshu](https://github.com/sudhanshshakhar/Sudhanshu)
+- 👨‍💻 All of my projects are available at [https://github.com/sudhanshshakhar/](https://github.com/sudhanshshakhar/)
 
 - 💬 Ask me about **Research analysis, ETL support, SQL, Excel, Power BI, Data Pipeline**
 
