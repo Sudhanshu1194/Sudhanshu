@@ -1,19 +1,19 @@
 ![logo](https://github.com/sudhanshshakhar/Sudhanshu/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sudhanshu Shekhar</h1>
-<h3 align="center">A Data Analyst</h3> 
+<h3 align="center">I am a Data Analyst. I'm good at debugging, problem solving and have quick learning skills.</h3> 
 <img align="right" alt="analyst" width="400" src="https://i.gifer.com/origin/89/899d8d16422a57b6479bde70755c10a8_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshshakhar&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshshakhar" /> </p>
 
 - 🌱 I’m currently learning **Python, ETL development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudhanshshakhar/](https://github.com/sudhanshshakhar/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sudhanshshakhar/). 
 
 - 💬 Ask me about **Research analysis, ETL support, SQL, Excel, Power BI, Data Pipeline**
 
-- 📫 How to reach me **sudhanshshakhar@gmail.com**
+- 📫 How to reach me- email_id: **sudhanshshakhar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sudhanshshakhar/](https://www.linkedin.com/in/sudhanshshakhar/)
+- 📄 Know about my experiences [here_linkedin](https://www.linkedin.com/in/sudhanshshakhar/). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
